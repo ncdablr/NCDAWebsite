@@ -1,0 +1,26 @@
+  /* CSS for the header */
+        header {
+            background-color: #003366;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            /*position: fixed;*/
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+        
+        /* CSS for the logo */
+        .logo {
+            max-width: 100px;
+            height: auto;
+        }
+        
+
+
+html {
+  scroll-behavior: smooth;
+  /*Adds smooth scrolling instead of snapping to element*/
+}
+
+
